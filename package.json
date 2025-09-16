@@ -50,5 +50,11 @@
   },
   "engines": {
     "node": ">=18.0.0"
+  },
+  "resolutions": {
+    "undici": "^6.19.8"
+  },
+  "overrides": {
+    "undici": "^6.19.8"
   }
 }
